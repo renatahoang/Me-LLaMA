@@ -1,0 +1,5 @@
+[project]
+name = "me-llama"
+version = "0.1.0"
+description = "A novel medical large language model family with 13/70B parameters, which have SOTA performances on various medical tasks"
+requires-python = ">=3.10"
